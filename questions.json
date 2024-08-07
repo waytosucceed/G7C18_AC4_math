@@ -1,0 +1,38 @@
+[
+    {
+        "question": "In figure L and M are parallel lines cut by the transversal t. If ∠1 = 70°, find the measure of ∠6.",
+        "options": ["120°", "110°", "100°", "80°"],
+        "correct": 1,
+        "img": "./assests/images/1.jpg"
+    },
+    {
+        "question": "In the given figure, if ∠5 = ∠110°, what is the value of ∠3?",
+        "options": ["60°", "30°", "70°", "90°"],
+        "correct": 2,
+        "img": "./assests/images/2.jpg"
+    },
+    {
+        "question": "If HJ and KM are parallel lines cut by transversal GN and ∠KLI = 139°, what is ∠JIL?",
+        "options": ["120°", "125°", "139°", "130°"],
+        "correct": 2,
+        "img": "./assests/images/3.jpg"
+    },
+    {
+        "question": "In the given figure, if AC is parallel to OD and OA is parallel to EF. Find the measure of ∠OEC + ∠EFD.",
+        "options": ["105°", "200°", "165°", "205°"],
+        "correct": 1,
+        "img": "./assests/images/4.jpg"
+    },
+    {
+        "question": "In the given figure, a is parallel to b and c is parallel to d. Find the value of m+n.",
+        "options": ["180°", "175°", "210°", "215°"],
+        "correct": 2,
+        "img": "./assests/images/5.jpg"
+    },
+    {
+        "question": "In the given figure, AB is parallel to CD. Find the value of y.",
+        "options": ["50°", "25°", "30°", "35°"],
+        "correct": 1,
+        "img": "./assests/images/6.jpg"
+    }
+]
